@@ -70,7 +70,7 @@ The *connection scope* information passed in ``scope`` contains:
 
 * ``type`` (*Unicode string*) -- ``"http"``.
 
-* ``asgi["version"]`` (*Unicode string*) -- Version of the ASGI spec.
+* ``asgi["version"]`` (*Unicode string*) -- Version of the ASGI 
 
 * ``asgi["spec_version"]`` (*Unicode string*) -- Version of the ASGI
   HTTP spec this server understands; one of ``"2.0"``, ``"2.1"``, ``"2.2"`` or
